@@ -35,3 +35,8 @@ html {
 h1 {
   color: red;
 }
+header {
+  margin: 0 auto;
+  width: 300px;
+  background: yellow;
+}
